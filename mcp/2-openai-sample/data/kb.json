@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Qual é a política de férias da empresa?",
+    "answer": "Colaboradores contratados em regime integral têm direito a 30 dias corridos de férias por ano, após 12 meses de trabalho. É permitido dividir as férias em até 3 períodos, sendo que um deles deve ter no mínimo 14 dias. Solicitações devem ser feitas com pelo menos 30 dias de antecedência via sistema de RH."
+  },
+  {
+    "question": "Como posso solicitar acesso a um novo sistema?",
+    "answer": "Para solicitar acesso a um sistema, abra um chamado no portal de Suporte Técnico. Informe o nome do sistema, o motivo da solicitação e a função que irá desempenhar. Pedidos simples são analisados em até 3 dias úteis. Sistemas críticos podem exigir autorização do gestor imediato e podem levar até 7 dias úteis."
+  },
+  {
+    "question": "Qual é a política de trabalho remoto da empresa?",
+    "answer": "A empresa adota um modelo de trabalho híbrido. Os colaboradores podem trabalhar de casa até dois dias por semana, com aprovação prévia do gestor. É necessário garantir um ambiente adequado e conexão estável à internet. O horário central de colaboração é das 9h às 15h, horário de Brasília."
+  },
+  {
+    "question": "Como faço para enviar um relatório de reembolso?",
+    "answer": "Relatórios de reembolso devem ser enviados pelo sistema de gestão de despesas corporativas. É obrigatório anexar comprovantes fiscais, classificar os gastos corretamente e descrever o motivo de cada despesa. O envio deve ser feito em até 15 dias após a data do gasto. Gastos acima de R$500 exigem justificativa adicional e aprovação da liderança."
+  },
+  {
+    "question": "Qual é o procedimento para relatar um incidente de segurança?",
+    "answer": "Ao identificar um incidente de segurança, entre em contato imediatamente com a equipe de Segurança da Informação pelo e-mail seguranca@empresa.com ou pelo canal de emergência disponível 24h. Não tente resolver o problema por conta própria. Anote os detalhes relevantes, como data, hora e sistemas afetados. A equipe responsável coordenará os próximos passos."
+  }
+]
