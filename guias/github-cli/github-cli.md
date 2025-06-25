@@ -6,43 +6,43 @@ A ferramenta **GitHub CLI** é uma interface de linha de comando que permite int
 
 ---
 
-## Comandos iniciais
+### Comandos iniciais
 
+Comando usado para autenticar sua conta do GitHub por meio de um processo interativo no terminal:
 ```bash
 $ gh auth login
 ```
-→ O comando é usado para autenticar sua conta do GitHub por meio de um processo interativo no terminal.
 
+Exibe o status da autenticação atual, mostrando se você está conectado ao GitHub e com quais permissões:
 ```bash
 $ gh auth status
 ```
-→ Exibe o status da autenticação atual, mostrando se você está conectado ao GitHub e com quais permissões.
 
+Comando para listar seus repositórios:
 ```bash
 $ gh repo list
 ```
-→ Comando para listar seus repositórios.
 
----
 
-## Criar um novo repositório no GitHub
 
-**Navegue até o diretório do projeto:**
+### Criar um novo repositório no GitHub
+
+Navegue até o diretório do projeto:
 
 ```bash
 $ cd /caminho/para/seu/projeto
 ```
 
-**Criar o repositório:**
+Criar o repositório:
 
 ```bash
 $ gh repo create <nome-do-repo> --private
 ```
 → Cria um novo repositório no GitHub definindo a visibilidade (`--public` ou `--private`)
 
----
 
-## Inicializar o repositório local com o Git:
+
+### Inicializar o repositório local com o Git:
 
 ```bash
 $ git init
@@ -52,11 +52,11 @@ $ git init
 $ git remote add origin git@github.com:usuario/nome-do-repositorio.git
 ```
 
----
 
-## Atualizar descrição do repositório:
+
+### Atualizar descrição do repositório:
 
 ```bash
 $ gh repo edit --description "<descrição do repositório>"
 ```
-→ Atualiza a descrição do repositório
+---
